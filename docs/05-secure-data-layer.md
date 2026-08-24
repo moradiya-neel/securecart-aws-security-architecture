@@ -68,7 +68,7 @@ Default server-side encryption used Amazon S3 managed keys (SSE-S3).
 
 ### 4. Anonymous-access validation
 
-A test object was uploaded, and its object URL was opened in a private browser window. S3 returned `AccessDenied`.
+A test object was uploaded, and its object URL was opened in a private browser window.
 
 ![S3 ObjectUpload](../assets/evidence/secure/44a-s3-object-upload.png)
 

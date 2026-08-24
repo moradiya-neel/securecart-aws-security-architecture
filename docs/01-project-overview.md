@@ -17,7 +17,7 @@ The second architecture rebuilds the same scenario around the principle that onl
 
 ## Project phases
 
-### Phase 1 — Insecure baseline
+### Phase 1 - Insecure baseline
 
 The baseline intentionally demonstrates:
 
@@ -30,7 +30,7 @@ The baseline intentionally demonstrates:
 - a public-read S3 bucket policy; and
 - anonymous object access.
 
-### Phase 2 — Secure redesign
+### Phase 2 - Secure redesign
 
 The secure environment introduces:
 

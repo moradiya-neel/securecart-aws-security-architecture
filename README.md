@@ -259,4 +259,3 @@ These are documented as next-step improvements rather than hidden as completed c
 **Neel Moradiya**  
 Personal AWS cloud security architecture project
 
-# securecart-aws-security-architecture

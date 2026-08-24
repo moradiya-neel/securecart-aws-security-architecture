@@ -1,4 +1,4 @@
-# SecureCart — AWS Insecure vs Secure Architecture Project
+# SecureCart - AWS Insecure vs Secure Architecture Project
 
 A personal AWS cloud security project documenting the difference between an intentionally insecure cloud deployment and a redesigned, security-focused architecture.
 
@@ -259,5 +259,4 @@ These are documented as next-step improvements rather than hidden as completed c
 **Neel Moradiya**  
 Personal AWS cloud security architecture project
 
-# securecart-aws-security-architecture
 # securecart-aws-security-architecture

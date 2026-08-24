@@ -23,7 +23,7 @@ The diagram above is the project architecture diagram used for the final write-u
 
 ## Project goal
 
-The project began by deliberately creating a weak AWS environment that reflected mistakes commonly seen in rushed or poorly governed cloud deployments. I then rebuilt the environment with a custom VPC and layered controls so that only the component that needed to be internet-facing — the Application Load Balancer — was directly exposed.
+The project began by deliberately creating a weak AWS environment that reflected mistakes commonly seen in rushed or poorly governed cloud deployments. I then rebuilt the environment with a custom VPC and layered controls so that only the component that needed to be internet-facing; the Application Load Balancer; was directly exposed.
 
 The project was designed to answer one practical question:
 

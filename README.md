@@ -1,4 +1,4 @@
-# SecureCart - AWS Secure Architecture Project
+# SecureCart - Secure AWS Architecture Project
 
 A personal AWS cloud security project documenting the difference between an intentionally insecure cloud deployment and a redesigned, security-focused architecture.
 

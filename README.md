@@ -245,6 +245,7 @@ This is a personal lab and not a full production deployment. In particular:
 - The NAT Gateway was deployed in one public subnet rather than one per AZ.
 - RDS was not configured as Multi-AZ.
 - A bastion host was used instead of Systems Manager Session Manager or EC2 Instance Connect Endpoint.
+- To reach the private instance, the SSH private key was copied onto the bastion host. In production the key should never leave the administrator machine: use SSH agent forwarding or `ssh -J` (ProxyJump), or remove SSH entirely with Session Manager.
 - The RDS master password was self-managed rather than stored and rotated through Secrets Manager.
 - The project did not validate application-level database transactions.
 - The project did not capture an application-to-S3 IAM integration test.
